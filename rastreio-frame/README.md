@@ -36,7 +36,7 @@ Edite o script rastreio.py e altere 'seu_video.mp4' para o nome do seu arquivo d
 
 Execute o script:
 
-python rastreio-mercadocaixa/rastreio.py
+python rastreio-frame/rastreio.py
 
 # Problemas Comuns
 
