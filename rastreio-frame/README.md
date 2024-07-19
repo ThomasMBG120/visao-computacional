@@ -43,3 +43,6 @@ python rastreio-frame/rastreio.py
 **Erro ao abrir o arquivo de vídeo:** Certifique-se de que o caminho do vídeo está correto e que o vídeo está no formato compatível.
 
 **Importação de módulos:** Certifique-se de que as bibliotecas foram instaladas no ambiente virtual correto.
+
+
+# ENTREGA CONCLUIDA EM 19/07
